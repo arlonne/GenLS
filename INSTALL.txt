@@ -1,0 +1,10 @@
+
+1. tar czvf GenLS.tgz
+
+2. cd GenLS/src
+
+3. edit Makefile, we recommand the ifort for Fortran Compiler.
+
+4. make
+
+5. the executable program 'GenLS.ne' will shown in the root dir of GenLS.

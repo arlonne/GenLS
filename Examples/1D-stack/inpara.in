@@ -1,0 +1,3 @@
+F       ! periodic condition? T/F
+2       ! how many types of build blocks?
+2 2     ! number of build blocks in each type!
