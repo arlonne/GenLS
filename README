@@ -1,6 +1,7 @@
 # GenLS
 modeling super lattice and random polymer, and so on, in lexicographic order
 Any questions pls send e-mail: longhuali@ujs.edu.cn
+citation: Li, L. H.; Ge, B. X.; Han, B. L.; Shi, W. D. Journal of Physical Chemistry C 2019, 123, 14253-14260.
 
 A) The simplest way to run GenLS is:
          ./GenLS.ne -x
